@@ -1,4 +1,4 @@
-📘 Udemy Landing Page (React + Vite)
+📘 Udemy Landing Page
 
 A responsive replica of the Udemy landing page, built using React and plain CSS.
 This project recreates the top sections of Udemy.com including:
@@ -16,6 +16,7 @@ Trusted companies
 The data for categories, courses, cards and companies is stored in JavaScript objects/arrays for easy reuse.
 
 🚀 Features
+
 ✔ Modern React (Vite)
 
 Fast development server and optimized builds.
